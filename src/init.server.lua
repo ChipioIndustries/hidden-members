@@ -1,3 +1,7 @@
+--[[
+	Available on GitHub: https://www.roblox.com/library/9883216660
+]]
+
 local Roact = require(script.Packages.Roact)
 
 local App = require(script.Components.App)
