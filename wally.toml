@@ -1,0 +1,10 @@
+[package]
+name = "chipioindustries/hidden-members"
+description = "Plugin to show hidden Roblox API members."
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Llama = "chipioindustries/llama@1.2.2"
+Roact = "roblox/roact@1.4.2"
